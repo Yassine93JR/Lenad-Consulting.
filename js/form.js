@@ -20,53 +20,32 @@ document.addEventListener('DOMContentLoaded', function() {
                 return;
             }
             
-            // Show loading state
-            const submitBtn = contactForm.querySelector('button[type="submit"]');
-            const originalText = submitBtn.textContent;
-            submitBtn.disabled = true;
-            const currentLang = localStorage.getItem('preferredLanguage') || 'fr';
-            submitBtn.textContent = currentLang === 'en' ? 'Sending...' : 'Envoi en cours...';
+            // Construire un mailto pour ouvrir le client mail de l'utilisateur
+            const to = 'contact@lenad-consulting.com';
+            const mailSubject = subject || 'Contact depuis le site Lenad Consulting';
+            const bodyLines = [
+                `Nom : ${name}`,
+                `Email : ${email}`,
+                '',
+                message
+            ];
+            const mailBody = bodyLines.join('\n');
+            const mailtoLink = `mailto:${encodeURIComponent(to)}?subject=${encodeURIComponent(mailSubject)}&body=${encodeURIComponent(mailBody)}`;
             
-            // Simulate form submission (replace with actual API call)
+            window.location.href = mailtoLink;
+            
+            // Afficher un message d'info sur le site
+            formMessage.className = 'form-message success';
+            formMessage.textContent = getTranslation('form.success');
+            formMessage.style.display = 'block';
+            
+            // Réinitialiser le formulaire
+            contactForm.reset();
+            
+            // Masquer le message après 5s
             setTimeout(function() {
-                // Success
-                formMessage.className = 'form-message success';
-                formMessage.textContent = getTranslation('form.success');
-                formMessage.style.display = 'block';
-                
-                // Reset form
-                contactForm.reset();
-                
-                // Reset button
-                submitBtn.disabled = false;
-                submitBtn.textContent = originalText;
-                
-                // Hide message after 5 seconds
-                setTimeout(function() {
-                    formMessage.style.display = 'none';
-                }, 5000);
-                
-                // In a real application, you would send the data to a server:
-                // fetch('/api/contact', {
-                //     method: 'POST',
-                //     headers: {
-                //         'Content-Type': 'application/json',
-                //     },
-                //     body: JSON.stringify({
-                //         name: name,
-                //         email: email,
-                //         subject: subject,
-                //         message: message
-                //     })
-                // })
-                // .then(response => response.json())
-                // .then(data => {
-                //     // Handle success
-                // })
-                // .catch(error => {
-                //     // Handle error
-                // });
-            }, 1000);
+                formMessage.style.display = 'none';
+            }, 5000);
         });
     }
     

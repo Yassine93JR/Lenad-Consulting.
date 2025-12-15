@@ -83,15 +83,17 @@
                         <button class="lang-btn active" data-lang="fr">FR</button>
                         <button class="lang-btn" data-lang="en">EN</button>
                     </div>
-                    <div class="hamburger" id="hamburger">
+                    <button class="hamburger" id="hamburger" aria-labelledby="menu-label" aria-expanded="false" aria-controls="nav-menu">
                         <span></span>
                         <span></span>
                         <span></span>
-                    </div>
+                    </button>
+                    <p id="menu-label" class="sr-only"><span>Menu</span></p>
                 </div>
             </div>
         </nav>
     </header>
+    <div class="nav-overlay" id="nav-overlay" aria-hidden="true"></div>
 
     <!-- Hero Section -->
     <section id="home" class="hero">
@@ -473,6 +475,8 @@
                         <label for="message" data-translate="form.message">Message</label>
                         <textarea id="message" name="message" rows="5" required aria-required="true" aria-label="Message"></textarea>
                     </div>
+                    <input type="hidden" name="_subject" value="Nouveau message via le site Lenad Consulting">
+                    <input type="hidden" name="_replyto" id="replyto-hidden">
                     <button type="submit" class="btn btn-primary" data-translate="form.submit">Envoyer</button>
                     <div class="form-message" id="form-message"></div>
                 </form>
