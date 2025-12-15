@@ -1,0 +1,54 @@
+═══════════════════════════════════════════════════════════════
+  ⚠️  PROBLÈME : Node.js n'est pas installé
+═══════════════════════════════════════════════════════════════
+
+Le site Next.js nécessite Node.js pour fonctionner.
+
+═══════════════════════════════════════════════════════════════
+  🚀 SOLUTION RAPIDE (2 OPTIONS) :
+═══════════════════════════════════════════════════════════════
+
+OPTION 1 : Installer Node.js (RECOMMANDÉ)
+───────────────────────────────────────────────────────────────
+
+1. Double-cliquez sur : OUVRIR_NODEJS.bat
+   (Cela ouvre le site de téléchargement)
+
+2. Cliquez sur le bouton VERT "LTS"
+
+3. Téléchargez et installez Node.js
+
+4. IMPORTANT : Cochez "Add to PATH" pendant l'installation
+
+5. Redémarrez votre ordinateur
+
+6. Double-cliquez sur : VERIFIER_ET_INSTALLER.bat
+
+7. Le site se lancera automatiquement !
+
+
+OPTION 2 : Voir la Version HTML Simple (SANS Node.js)
+───────────────────────────────────────────────────────────────
+
+Si vous voulez voir le site MAINTENANT sans installer Node.js :
+
+1. Ouvrez le fichier : index.html
+   (Double-cliquez dessus dans l'explorateur Windows)
+
+2. Le site s'ouvrira dans votre navigateur
+
+⚠️ Note : Cette version n'a pas toutes les animations avancées
+   mais vous pouvez voir le contenu et le design de base.
+
+═══════════════════════════════════════════════════════════════
+  📋 RÉSUMÉ :
+═══════════════════════════════════════════════════════════════
+
+Pour la version COMPLÈTE avec animations :
+→ Installez Node.js (Option 1)
+
+Pour voir le site MAINTENANT :
+→ Ouvrez index.html (Option 2)
+
+═══════════════════════════════════════════════════════════════
+

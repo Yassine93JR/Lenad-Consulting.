@@ -1,0 +1,8 @@
+Uri: https://mgh-partners.com/
+File Name: C:\Users\wiwin\OneDrive\Desktop\mgh-partners.com\index.htm
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LfOh8wpAAAAAPeZAKfid1DDaPpQXRrKVhxnGT5K&ver=2.1.0
+File Name: C:\Users\wiwin\OneDrive\Desktop\mgh-partners.com\recaptcha\api.js
+Content Type: text/javascript
+

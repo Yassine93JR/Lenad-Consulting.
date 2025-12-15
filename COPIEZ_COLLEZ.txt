@@ -1,0 +1,50 @@
+═══════════════════════════════════════════════════════════════
+  COMMANDES À COPIER-COLLER - LANCEZ LE SITE EN 3 ÉTAPES
+═══════════════════════════════════════════════════════════════
+
+ÉTAPE 1 : Ouvrir PowerShell et aller dans le dossier
+───────────────────────────────────────────────────────────────
+Copiez-collez cette commande dans PowerShell :
+
+cd "C:\Users\wiwin\OneDrive\Desktop\Lenad Consulting texte"
+
+
+ÉTAPE 2 : Installer les dépendances (1ère fois seulement)
+───────────────────────────────────────────────────────────────
+Copiez-collez cette commande :
+
+npm install
+
+
+ÉTAPE 3 : Lancer le site
+───────────────────────────────────────────────────────────────
+Copiez-collez cette commande :
+
+npm run dev
+
+
+═══════════════════════════════════════════════════════════════
+  PUIS OUVREZ DANS VOTRE NAVIGATEUR :
+═══════════════════════════════════════════════════════════════
+
+http://localhost:3000
+
+
+═══════════════════════════════════════════════════════════════
+  POUR ARRÊTER LE SITE :
+═══════════════════════════════════════════════════════════════
+
+Dans le terminal, appuyez sur : Ctrl + C
+
+
+═══════════════════════════════════════════════════════════════
+  SI ÇA NE MARCHE PAS :
+═══════════════════════════════════════════════════════════════
+
+Essayez cette commande à la place de "npm install" :
+
+npm install --legacy-peer-deps
+
+
+═══════════════════════════════════════════════════════════════
+

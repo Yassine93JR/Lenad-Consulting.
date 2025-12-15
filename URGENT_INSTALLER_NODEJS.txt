@@ -1,0 +1,45 @@
+═══════════════════════════════════════════════════════════════
+  ⚠️  URGENT : INSTALLER NODE.JS
+═══════════════════════════════════════════════════════════════
+
+Le problème "ERR_CONNECTION_REFUSED" signifie que Node.js n'est
+pas installé sur votre ordinateur.
+
+═══════════════════════════════════════════════════════════════
+  SOLUTION RAPIDE :
+═══════════════════════════════════════════════════════════════
+
+1. Allez sur : https://nodejs.org/
+
+2. Cliquez sur le bouton VERT "LTS" (Long Term Support)
+
+3. Téléchargez le fichier .msi
+
+4. Double-cliquez sur le fichier téléchargé
+
+5. Pendant l'installation, COCHEZ "Add to PATH" ⚠️ IMPORTANT !
+
+6. Terminez l'installation
+
+7. REDÉMARREZ votre ordinateur (ou au moins fermez PowerShell)
+
+8. Rouvrez PowerShell et tapez :
+   node --version
+   
+   Si vous voyez un numéro (ex: v20.10.0), c'est bon ! ✅
+
+9. Ensuite, dans PowerShell :
+   cd "C:\Users\wiwin\OneDrive\Desktop\Lenad Consulting texte"
+   npm install
+   npm run dev
+
+10. Ouvrez : http://localhost:3000
+
+═══════════════════════════════════════════════════════════════
+
+OU SIMPLEMENT :
+
+Double-cliquez sur : VERIFIER_ET_INSTALLER.bat
+
+═══════════════════════════════════════════════════════════════
+

@@ -1,0 +1,576 @@
+Uri: https://fonts.googleapis.com/css?family=Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Inter:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.9
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\lora\v37\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\lora\v37\0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\lora\v37\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\lora\v37\0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\lora\v37\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\lora\v37\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\lora\v37\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v37/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\s\lora\v37\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://poinciana.co/
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\index.htm
+Content Type: text/html
+
+Uri: https://poinciana.co/comments/feed/
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://poinciana.co/feed/
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://poinciana.co/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.22.1
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor-pro\assets\css\widget-call-to-action.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.22.1
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.22.1
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.22.1
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.22.3
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.22.3
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.22.3
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.22.3
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.22.3
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.0
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.0
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/themes/hello-elementor/style.min.css?ver=3.1.0
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.0
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/0IT7btki-1.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\0IT7btki-1.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/0IT7btki-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\0IT7btki-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/0IT7btki.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\0IT7btki.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/curioso-photography-lnbR0E65Yn4-unsplash-scaled.jpg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\curioso-photography-lnbR0E65Yn4-unsplash-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/ricardo-gomez-angel-GsZLXA4JPcM-unsplash-scaled.jpg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\ricardo-gomez-angel-GsZLXA4JPcM-unsplash-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/RZ_1223-Votre-story.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\RZ_1223-Votre-story.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/taylor-nicole-qH7nLsK_IjE-unsplash-scaled.jpg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\taylor-nicole-qH7nLsK_IjE-unsplash-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-26-at-3.44.25-PM.jpeg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\WhatsApp-Image-2024-06-26-at-3.44.25-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-26-at-3.46.34-PM.jpeg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\WhatsApp-Image-2024-06-26-at-3.46.34-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-27-at-2.39.59-PM.jpeg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\06\WhatsApp-Image-2024-06-27-at-2.39.59-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/1-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\1-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/1-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\1-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/1-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\1-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/1-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\1-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/1.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\1.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/10-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\10-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/10-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\10-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/10-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\10-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/10-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\10-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/10.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\10.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/11-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\11-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/11-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\11-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/11-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\11-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/11-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\11-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/11.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\11.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/12-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\12-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/12-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\12-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/12-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\12-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/12-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\12-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/12.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\12.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/14-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\14-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/14-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\14-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/14-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\14-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/14-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\14-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/14.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\14.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/15-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\15-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/15-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\15-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/15-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\15-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/15-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\15-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/15.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\15.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/17-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\17-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/17-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\17-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/17-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\17-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/17-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\17-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/17.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\17.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/2-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\2-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/2-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\2-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/2-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\2-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/2-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\2-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/2.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\2.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/5-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\5-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/5-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\5-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/5-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\5-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/5-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\5-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/5.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\5.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/6-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\6-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/6-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\6-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/6-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\6-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/6-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\6-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/6.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\6.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/8-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\8-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/8-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\8-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/8-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\8-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/8-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\8-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/8.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\8.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/9-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\9-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/9-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\9-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/9-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\9-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/9-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\9-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/9.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\9.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/Design-sans-titre-1024x1024.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\Design-sans-titre-1024x1024.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/Design-sans-titre-150x150.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\Design-sans-titre-150x150.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/Design-sans-titre-300x300.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\Design-sans-titre-300x300.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/Design-sans-titre-768x768.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\Design-sans-titre-768x768.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/Design-sans-titre.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\Design-sans-titre.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/KDG.jpeg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\KDG.jpeg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/talys-300x159.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\talys-300x159.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/talys.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\talys.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/We-Light-1024x831-removebg-preview-300x243.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\We-Light-1024x831-removebg-preview-300x243.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/07/We-Light-1024x831-removebg-preview.png
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\07\We-Light-1024x831-removebg-preview.png
+Content Type: image/png
+
+Uri: https://poinciana.co/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-08-at-14.57.20-768x1024.jpeg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2024\08\WhatsApp-Image-2024-08-08-at-14.57.20-768x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/2025/02/1735811286753.jpeg
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\2025\02\1735811286753.jpeg
+Content Type: image/jpeg
+
+Uri: https://poinciana.co/wp-content/uploads/elementor/css/global.css?ver=1719508485
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/uploads/elementor/css/post-48.css?ver=1719508485
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\elementor\css\post-48.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/uploads/elementor/css/post-61.css?ver=1738251870
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\elementor\css\post-61.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-content/uploads/elementor/css/post-98.css?ver=1759844537
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-content\uploads\elementor\css\post-98.css
+Content Type: text/css
+
+Uri: https://poinciana.co/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://poinciana.co/wp-json/
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://poinciana.co/wp-json/oembed/1.0/embed?url=https:%2F%2Fpoinciana.co%2F
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://poinciana.co/wp-json/oembed/1.0/embed?url=https:%2F%2Fpoinciana.co%2F&format=xml
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://poinciana.co/wp-json/wp/v2/pages/98
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\wp-json\wp\v2\pages\98
+Content Type: application/json
+
+Uri: https://poinciana.co/xmlrpc.php?rsd
+File Name: C:\Users\wiwin\OneDrive\Desktop\poinciana.co\xmlrpc.php
+Content Type: text/xml
+

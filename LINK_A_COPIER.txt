@@ -1,0 +1,34 @@
+═══════════════════════════════════════════════════════════════
+  COPIEZ-CE LIEN ET COLLEZ-LE DANS VOTRE NAVIGATEUR :
+═══════════════════════════════════════════════════════════════
+
+file:///C:/Users/wiwin/OneDrive/Desktop/Lenad%20Consulting%20texte/index.html
+
+═══════════════════════════════════════════════════════════════
+
+ÉTAPES :
+───────────────────────────────────────────────────────────────
+
+1. OUVREZ votre navigateur (Chrome, Firefox, Edge, etc.)
+
+2. CLIQUEZ dans la barre d'adresse (en haut de la fenêtre)
+
+3. COLLEZ ce lien exactement :
+   file:///C:/Users/wiwin/OneDrive/Desktop/Lenad%20Consulting%20texte/index.html
+
+4. APPUYEZ sur Entrée
+
+═══════════════════════════════════════════════════════════════
+
+OU ENCORE PLUS SIMPLE :
+───────────────────────────────────────────────────────────────
+
+1. Dans l'explorateur Windows, allez dans :
+   C:\Users\wiwin\OneDrive\Desktop\Lenad Consulting texte
+
+2. Trouvez le fichier : index.html
+
+3. DOUBLE-CLIQUEZ dessus
+
+═══════════════════════════════════════════════════════════════
+

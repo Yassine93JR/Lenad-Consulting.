@@ -1,0 +1,19 @@
+═══════════════════════════════════════════════════════════════
+  🌐 COPIEZ-COLLEZ CETTE URL DANS VOTRE NAVIGATEUR :
+═══════════════════════════════════════════════════════════════
+
+http://localhost:3000
+
+═══════════════════════════════════════════════════════════════
+
+OUVREZ VOTRE NAVIGATEUR (Chrome, Firefox, Edge) ET COLLEZ :
+
+http://localhost:3000
+
+═══════════════════════════════════════════════════════════════
+
+Le serveur est en train de démarrer...
+Attendez 10-20 secondes puis ouvrez l'URL ci-dessus.
+
+═══════════════════════════════════════════════════════════════
+
